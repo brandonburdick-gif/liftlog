@@ -322,13 +322,6 @@
     "target": "upper legs"
   },
   {
-    "id": "993",
-    "name": "Jump rope: basic jumps",
-    "bodyPart": "cardio",
-    "equipment": "other",
-    "target": "cardio"
-  },
-  {
     "id": "959",
     "name": "TRX Rows",
     "bodyPart": "waist",
@@ -644,13 +637,6 @@
     "target": "upper legs"
   },
   {
-    "id": "1021",
-    "name": "Calf raises, right leg",
-    "bodyPart": "lower legs",
-    "equipment": "other",
-    "target": "lower legs"
-  },
-  {
     "id": "910",
     "name": "Nordic Curl",
     "bodyPart": "upper legs",
@@ -924,13 +910,6 @@
     "target": "quads"
   },
   {
-    "id": "239",
-    "name": "Fly With Dumbbells, Decline Bench",
-    "bodyPart": "chest",
-    "equipment": "dumbbell",
-    "target": "chest"
-  },
-  {
     "id": "238",
     "name": "Fly With Dumbbells",
     "bodyPart": "chest",
@@ -1071,13 +1050,6 @@
     "target": "triceps"
   },
   {
-    "id": "292",
-    "name": "Hip Raise, Lying",
-    "bodyPart": "back",
-    "equipment": "other",
-    "target": "back"
-  },
-  {
     "id": "259",
     "name": "Front Pull narrow",
     "bodyPart": "back",
@@ -1197,25 +1169,11 @@
     "target": "hamstrings"
   },
   {
-    "id": "349",
-    "name": "Lateral Rows on Cable, One Armed",
-    "bodyPart": "shoulders",
-    "equipment": "body weight",
-    "target": "shoulders"
-  },
-  {
     "id": "348",
     "name": "Lateral Raises",
     "bodyPart": "shoulders",
     "equipment": "dumbbell",
     "target": "shoulders"
-  },
-  {
-    "id": "902",
-    "name": "Barbell Hip Thrust",
-    "bodyPart": "upper legs",
-    "equipment": "barbell",
-    "target": "glutes"
   },
   {
     "id": "916",
@@ -1316,13 +1274,6 @@
     "target": "lats"
   },
   {
-    "id": "395",
-    "name": "Long-Pulley, Narrow",
-    "bodyPart": "back",
-    "equipment": "body weight",
-    "target": "lats"
-  },
-  {
     "id": "427",
     "name": "Negative Crunches",
     "bodyPart": "waist",
@@ -1344,13 +1295,6 @@
     "target": "chest"
   },
   {
-    "id": "378",
-    "name": "Leg Raises, Standing",
-    "bodyPart": "waist",
-    "equipment": "body weight",
-    "target": "abs"
-  },
-  {
     "id": "917",
     "name": "Straight Bar Cable Front Raise",
     "bodyPart": "shoulders",
@@ -1370,13 +1314,6 @@
     "bodyPart": "back",
     "equipment": "other",
     "target": "shoulders"
-  },
-  {
-    "id": "377",
-    "name": "Leg Raises, Lying",
-    "bodyPart": "waist",
-    "equipment": "other",
-    "target": "abs"
   },
   {
     "id": "376",
@@ -1568,13 +1505,6 @@
     "target": "biceps"
   },
   {
-    "id": "512",
-    "name": "Rowing seated, narrow grip",
-    "bodyPart": "back",
-    "equipment": "body weight",
-    "target": "lats"
-  },
-  {
     "id": "493",
     "name": "Reverse Bar Curl",
     "bodyPart": "upper arms",
@@ -1586,13 +1516,6 @@
     "name": "Renegade Row",
     "bodyPart": "back",
     "equipment": "dumbbell",
-    "target": "lats"
-  },
-  {
-    "id": "513",
-    "name": "Rowing, T-bar",
-    "bodyPart": "back",
-    "equipment": "body weight",
     "target": "lats"
   },
   {
@@ -1624,13 +1547,6 @@
     "target": "back"
   },
   {
-    "id": "510",
-    "name": "Rowing, Lying on Bench",
-    "bodyPart": "back",
-    "equipment": "body weight",
-    "target": "lats"
-  },
-  {
     "id": "501",
     "name": "Ring Dips",
     "bodyPart": "upper arms",
@@ -1657,13 +1573,6 @@
     "bodyPart": "waist",
     "equipment": "body weight",
     "target": "waist"
-  },
-  {
-    "id": "543",
-    "name": "Shoulder Press, on Machine",
-    "bodyPart": "shoulders",
-    "equipment": "body weight",
-    "target": "shoulders"
   },
   {
     "id": "498",
@@ -1750,13 +1659,6 @@
     "target": "upper legs"
   },
   {
-    "id": "569",
-    "name": "Shoulder Press, on Multi Press",
-    "bodyPart": "shoulders",
-    "equipment": "body weight",
-    "target": "shoulders"
-  },
-  {
     "id": "591",
     "name": "Sit-ups",
     "bodyPart": "waist",
@@ -1764,32 +1666,11 @@
     "target": "abs"
   },
   {
-    "id": "906",
-    "name": "Barbell Hip Thrust",
-    "bodyPart": "upper legs",
-    "equipment": "body weight",
-    "target": "upper legs"
-  },
-  {
     "id": "920",
     "name": "V-BAR PULL DOWNS",
     "bodyPart": "back",
     "equipment": "body weight",
     "target": "lats"
-  },
-  {
-    "id": "567",
-    "name": "Shoulder Press, Dumbbells",
-    "bodyPart": "shoulders",
-    "equipment": "dumbbell",
-    "target": "shoulders"
-  },
-  {
-    "id": "566",
-    "name": "Shoulder Press, Barbell",
-    "bodyPart": "shoulders",
-    "equipment": "barbell",
-    "target": "shoulders"
   },
   {
     "id": "584",
@@ -1834,13 +1715,6 @@
     "target": ""
   },
   {
-    "id": "571",
-    "name": "Shrugs, Barbells",
-    "bodyPart": "shoulders",
-    "equipment": "barbell",
-    "target": "shoulders"
-  },
-  {
     "id": "578",
     "name": "Side-lying External Rotation",
     "bodyPart": "shoulders",
@@ -1852,13 +1726,6 @@
     "name": "Shrugs on Multipress",
     "bodyPart": "shoulders",
     "equipment": "body weight",
-    "target": "shoulders"
-  },
-  {
-    "id": "572",
-    "name": "Shrugs, Dumbbells",
-    "bodyPart": "shoulders",
-    "equipment": "dumbbell",
     "target": "shoulders"
   },
   {
@@ -2065,31 +1932,10 @@
     "target": "chest"
   },
   {
-    "id": "702",
-    "name": "Calf raises, one legged",
-    "bodyPart": "lower legs",
-    "equipment": "body weight",
-    "target": "calves"
-  },
-  {
-    "id": "693",
-    "name": "Upright Row, SZ-bar",
-    "bodyPart": "shoulders",
-    "equipment": "barbell",
-    "target": "shoulders"
-  },
-  {
     "id": "713",
     "name": "Wall Pushup",
     "bodyPart": "upper arms",
     "equipment": "other",
-    "target": "shoulders"
-  },
-  {
-    "id": "691",
-    "name": "Upright Row, on Multi Press",
-    "bodyPart": "shoulders",
-    "equipment": "body weight",
     "target": "shoulders"
   },
   {
@@ -2387,13 +2233,6 @@
     "target": "chest"
   },
   {
-    "id": "1095",
-    "name": "Seated bench press",
-    "bodyPart": "chest",
-    "equipment": "body weight",
-    "target": "chest"
-  },
-  {
     "id": "1096",
     "name": "Abduction while standing",
     "bodyPart": "upper legs",
@@ -2457,39 +2296,11 @@
     "target": "abs"
   },
   {
-    "id": "1106",
-    "name": "Seated Knee Tuck",
-    "bodyPart": "waist",
-    "equipment": "other",
-    "target": "abs"
-  },
-  {
     "id": "1109",
     "name": "Cable Concentration Curl",
     "bodyPart": "upper arms",
     "equipment": "body weight",
     "target": "biceps"
-  },
-  {
-    "id": "1111",
-    "name": "Push-Ups | Incline",
-    "bodyPart": "chest",
-    "equipment": "body weight",
-    "target": "chest"
-  },
-  {
-    "id": "1112",
-    "name": "Push-Ups | Decline",
-    "bodyPart": "chest",
-    "equipment": "body weight",
-    "target": "chest"
-  },
-  {
-    "id": "1113",
-    "name": "Push-Ups | Parallettes",
-    "bodyPart": "chest",
-    "equipment": "body weight",
-    "target": "chest"
   },
   {
     "id": "1114",
@@ -2527,48 +2338,6 @@
     "target": "back"
   },
   {
-    "id": "1124",
-    "name": "Jalón abierto",
-    "bodyPart": "back",
-    "equipment": "body weight",
-    "target": "lats"
-  },
-  {
-    "id": "1125",
-    "name": "Jalón abierto supino",
-    "bodyPart": "back",
-    "equipment": "body weight",
-    "target": "lats"
-  },
-  {
-    "id": "1126",
-    "name": "Jalón cerrado",
-    "bodyPart": "back",
-    "equipment": "body weight",
-    "target": "lats"
-  },
-  {
-    "id": "1127",
-    "name": "Jalón cerrado supino",
-    "bodyPart": "back",
-    "equipment": "body weight",
-    "target": "lats"
-  },
-  {
-    "id": "1131",
-    "name": "Extensión de gluteos en polea",
-    "bodyPart": "upper legs",
-    "equipment": "body weight",
-    "target": "glutes"
-  },
-  {
-    "id": "1132",
-    "name": "Extensión de gluteo en  máquina",
-    "bodyPart": "upper legs",
-    "equipment": "body weight",
-    "target": "glutes"
-  },
-  {
     "id": "1136",
     "name": "JALONES PECHO NEUTRO",
     "bodyPart": "back",
@@ -2597,13 +2366,6 @@
     "target": "hamstrings"
   },
   {
-    "id": "1143",
-    "name": "Back extensión",
-    "bodyPart": "back",
-    "equipment": "body weight",
-    "target": "lats"
-  },
-  {
     "id": "1185",
     "name": "Triceps Pushdown",
     "bodyPart": "upper arms",
@@ -2616,20 +2378,6 @@
     "bodyPart": "back",
     "equipment": "body weight",
     "target": "back"
-  },
-  {
-    "id": "1187",
-    "name": "High Pull",
-    "bodyPart": "back",
-    "equipment": "body weight",
-    "target": "lats"
-  },
-  {
-    "id": "1188",
-    "name": "Flexión lateral",
-    "bodyPart": "waist",
-    "equipment": "dumbbell",
-    "target": "waist"
   },
   {
     "id": "1190",
@@ -2658,13 +2406,6 @@
     "bodyPart": "waist",
     "equipment": "body weight",
     "target": "shoulders"
-  },
-  {
-    "id": "1195",
-    "name": "Side Slides + Squats",
-    "bodyPart": "upper legs",
-    "equipment": "other",
-    "target": "quads"
   },
   {
     "id": "1196",
@@ -2702,13 +2443,6 @@
     "target": "upper legs"
   },
   {
-    "id": "1203",
-    "name": "Calf raises, left leg",
-    "bodyPart": "lower legs",
-    "equipment": "other",
-    "target": "calves"
-  },
-  {
     "id": "1204",
     "name": "Cycling cardio session",
     "bodyPart": "cardio",
@@ -2716,22 +2450,8 @@
     "target": "cardio"
   },
   {
-    "id": "1205",
-    "name": "Wrist curl, dumbbells",
-    "bodyPart": "upper arms",
-    "equipment": "dumbbell",
-    "target": "upper arms"
-  },
-  {
     "id": "1206",
     "name": "scorpion kick",
-    "bodyPart": "back",
-    "equipment": "other",
-    "target": "back"
-  },
-  {
-    "id": "1207",
-    "name": "Scorpion Kick",
     "bodyPart": "back",
     "equipment": "other",
     "target": "back"
@@ -2749,20 +2469,6 @@
     "bodyPart": "back",
     "equipment": "other",
     "target": "back"
-  },
-  {
-    "id": "1211",
-    "name": "Romanian deadlift, single leg",
-    "bodyPart": "upper legs",
-    "equipment": "dumbbell",
-    "target": "hamstrings"
-  },
-  {
-    "id": "84",
-    "name": "Bent Over Rowing Reverse",
-    "bodyPart": "back",
-    "equipment": "barbell",
-    "target": "lats"
   },
   {
     "id": "260",
@@ -3059,13 +2765,6 @@
     "target": "calves"
   },
   {
-    "id": "1244",
-    "name": "Yoga exercise: Cow-cat",
-    "bodyPart": "back",
-    "equipment": "other",
-    "target": "shoulders"
-  },
-  {
     "id": "1245",
     "name": "Front Lever",
     "bodyPart": "waist",
@@ -3092,13 +2791,6 @@
     "bodyPart": "waist",
     "equipment": "other",
     "target": "lats"
-  },
-  {
-    "id": "851",
-    "name": "Leg Extension",
-    "bodyPart": "upper legs",
-    "equipment": "body weight",
-    "target": "quads"
   },
   {
     "id": "1252",
@@ -3179,20 +2871,6 @@
   },
   {
     "id": "1270",
-    "name": "Low Pulley Cable fFly",
-    "bodyPart": "chest",
-    "equipment": "body weight",
-    "target": "chest"
-  },
-  {
-    "id": "1271",
-    "name": "Low Pulley Cable fFly",
-    "bodyPart": "chest",
-    "equipment": "body weight",
-    "target": "chest"
-  },
-  {
-    "id": "1272",
     "name": "Low Pulley Cable fFly",
     "bodyPart": "chest",
     "equipment": "body weight",
@@ -3458,27 +3136,6 @@
     "target": "quads"
   },
   {
-    "id": "1315",
-    "name": "Bodyweight Squat HD",
-    "bodyPart": "upper legs",
-    "equipment": "other",
-    "target": "glutes"
-  },
-  {
-    "id": "1316",
-    "name": "Jumping Jack HD",
-    "bodyPart": "cardio",
-    "equipment": "other",
-    "target": "calves"
-  },
-  {
-    "id": "1317",
-    "name": "Plank",
-    "bodyPart": "chest",
-    "equipment": "other",
-    "target": ""
-  },
-  {
     "id": "1318",
     "name": "High Knee Skips HD",
     "bodyPart": "cardio",
@@ -3498,13 +3155,6 @@
     "bodyPart": "upper arms",
     "equipment": "other",
     "target": "biceps"
-  },
-  {
-    "id": "1322",
-    "name": "Kopfüber Gewichtaufheben",
-    "bodyPart": "waist",
-    "equipment": "kettlebell",
-    "target": "abs"
   },
   {
     "id": "1324",
@@ -3528,20 +3178,6 @@
     "target": "triceps"
   },
   {
-    "id": "1669",
-    "name": "Jumping Jacks",
-    "bodyPart": "cardio",
-    "equipment": "other",
-    "target": "calves"
-  },
-  {
-    "id": "1670",
-    "name": "Leg Swings (Front–Back)",
-    "bodyPart": "upper legs",
-    "equipment": "other",
-    "target": "hamstrings"
-  },
-  {
     "id": "1672",
     "name": "Seated Hip Abduction",
     "bodyPart": "upper legs",
@@ -3554,13 +3190,6 @@
     "bodyPart": "upper legs",
     "equipment": "dumbbell",
     "target": "quads"
-  },
-  {
-    "id": "1674",
-    "name": "Dumbbell Floor Press",
-    "bodyPart": "chest",
-    "equipment": "dumbbell",
-    "target": "chest"
   },
   {
     "id": "1333",
@@ -3766,13 +3395,6 @@
     "target": "abs"
   },
   {
-    "id": "1321",
-    "name": "Side Plank",
-    "bodyPart": "waist",
-    "equipment": "other",
-    "target": ""
-  },
-  {
     "id": "1380",
     "name": "Band pull-aparts",
     "bodyPart": "back",
@@ -3796,13 +3418,6 @@
   {
     "id": "1387",
     "name": "Hamstring Kicks",
-    "bodyPart": "upper legs",
-    "equipment": "other",
-    "target": "hamstrings"
-  },
-  {
-    "id": "1388",
-    "name": "Single Leg RDL",
     "bodyPart": "upper legs",
     "equipment": "other",
     "target": "hamstrings"
@@ -4382,13 +3997,6 @@
     "target": "biceps"
   },
   {
-    "id": "1494",
-    "name": "Sitting Calf Raises",
-    "bodyPart": "upper legs",
-    "equipment": "body weight",
-    "target": "calves"
-  },
-  {
     "id": "1551",
     "name": "Push-Up",
     "bodyPart": "chest",
@@ -4704,13 +4312,6 @@
     "target": "lats"
   },
   {
-    "id": "1702",
-    "name": "Jalón al pecho con agarre ancho",
-    "bodyPart": "back",
-    "equipment": "body weight",
-    "target": "lats"
-  },
-  {
     "id": "1703",
     "name": "Patadas traseras",
     "bodyPart": "upper arms",
@@ -4760,20 +4361,6 @@
     "target": "hamstrings"
   },
   {
-    "id": "1549",
-    "name": "Stair Master",
-    "bodyPart": "cardio",
-    "equipment": "other",
-    "target": "hamstrings"
-  },
-  {
-    "id": "1707",
-    "name": "Elevación lateral polea",
-    "bodyPart": "back",
-    "equipment": "other",
-    "target": "shoulders"
-  },
-  {
     "id": "1710",
     "name": "Butchers Block Stretch",
     "bodyPart": "shoulders",
@@ -4792,13 +4379,6 @@
     "name": "Sleeper Stretch",
     "bodyPart": "shoulders",
     "equipment": "other",
-    "target": "shoulders"
-  },
-  {
-    "id": "1556",
-    "name": "Devil’s Press",
-    "bodyPart": "shoulders",
-    "equipment": "dumbbell",
     "target": "shoulders"
   },
   {
@@ -4907,28 +4487,7 @@
     "target": "shoulders"
   },
   {
-    "id": "1591",
-    "name": "Respiración profunda (de pie o sentado)",
-    "bodyPart": "chest",
-    "equipment": "other",
-    "target": ""
-  },
-  {
-    "id": "1592",
-    "name": "Meditación guiada o libre",
-    "bodyPart": "cardio",
-    "equipment": "other",
-    "target": "cardio"
-  },
-  {
     "id": "1593",
-    "name": "Smith Machine Split Squat",
-    "bodyPart": "upper legs",
-    "equipment": "barbell",
-    "target": "hamstrings"
-  },
-  {
-    "id": "1594",
     "name": "Smith Machine Split Squat",
     "bodyPart": "upper legs",
     "equipment": "barbell",
@@ -5047,13 +4606,6 @@
     "target": "glutes"
   },
   {
-    "id": "1614",
-    "name": "Dumbbell Hip Thrust",
-    "bodyPart": "upper legs",
-    "equipment": "body weight",
-    "target": "glutes"
-  },
-  {
     "id": "1615",
     "name": "Treadmill Cardio",
     "bodyPart": "cardio",
@@ -5075,13 +4627,6 @@
     "target": ""
   },
   {
-    "id": "1618",
-    "name": "Cardio en bicicleta estática",
-    "bodyPart": "cardio",
-    "equipment": "other",
-    "target": "cardio"
-  },
-  {
     "id": "1726",
     "name": "Straight-Arm Pulldown (Cable)",
     "bodyPart": "back",
@@ -5094,13 +4639,6 @@
     "bodyPart": "lower legs",
     "equipment": "dumbbell",
     "target": "calves"
-  },
-  {
-    "id": "1621",
-    "name": "Unilateral Cable row",
-    "bodyPart": "back",
-    "equipment": "body weight",
-    "target": "lats"
   },
   {
     "id": "1727",
@@ -5150,13 +4688,6 @@
     "bodyPart": "upper legs",
     "equipment": "other",
     "target": "glutes"
-  },
-  {
-    "id": "1734",
-    "name": "Single-Leg Lunge with Kettlebell:",
-    "bodyPart": "upper legs",
-    "equipment": "kettlebell",
-    "target": "calves"
   },
   {
     "id": "1735",
@@ -5257,20 +4788,6 @@
     "target": "glutes"
   },
   {
-    "id": "1749",
-    "name": "Seated Triceps Press",
-    "bodyPart": "upper arms",
-    "equipment": "body weight",
-    "target": "triceps"
-  },
-  {
-    "id": "1750",
-    "name": "Romanian Deadlift",
-    "bodyPart": "upper legs",
-    "equipment": "dumbbell",
-    "target": "glutes"
-  },
-  {
     "id": "1751",
     "name": "Cable pull through",
     "bodyPart": "upper legs",
@@ -5293,7 +4810,7 @@
   },
   {
     "id": "1754",
-    "name": "45° lateral raises",
+    "name": "45\u00b0 lateral raises",
     "bodyPart": "shoulders",
     "equipment": "dumbbell",
     "target": "shoulders"
@@ -5311,34 +4828,6 @@
     "bodyPart": "chest",
     "equipment": "body weight",
     "target": "chest"
-  },
-  {
-    "id": "1762",
-    "name": "supino",
-    "bodyPart": "chest",
-    "equipment": "body weight",
-    "target": "chest"
-  },
-  {
-    "id": "1763",
-    "name": "supino",
-    "bodyPart": "chest",
-    "equipment": "body weight",
-    "target": "chest"
-  },
-  {
-    "id": "1764",
-    "name": "supino",
-    "bodyPart": "upper arms",
-    "equipment": "body weight",
-    "target": "upper arms"
-  },
-  {
-    "id": "1765",
-    "name": "Pull-Ups (Wide Grip)",
-    "bodyPart": "back",
-    "equipment": "body weight",
-    "target": "lats"
   },
   {
     "id": "1766",
@@ -5374,13 +4863,6 @@
     "bodyPart": "back",
     "equipment": "body weight",
     "target": "lats"
-  },
-  {
-    "id": "1771",
-    "name": "Wrist curl, cable",
-    "bodyPart": "upper arms",
-    "equipment": "body weight",
-    "target": "biceps"
   },
   {
     "id": "1772",
@@ -5460,74 +4942,11 @@
     "target": "waist"
   },
   {
-    "id": "1780",
-    "name": "Supino",
-    "bodyPart": "upper arms",
-    "equipment": "body weight",
-    "target": "upper arms"
-  },
-  {
-    "id": "1792",
-    "name": "Supino",
-    "bodyPart": "chest",
-    "equipment": "body weight",
-    "target": "chest"
-  },
-  {
-    "id": "1793",
-    "name": "Supino Inclinado",
-    "bodyPart": "chest",
-    "equipment": "body weight",
-    "target": "chest"
-  },
-  {
-    "id": "1794",
-    "name": "SUPINO",
-    "bodyPart": "waist",
-    "equipment": "body weight",
-    "target": "waist"
-  },
-  {
     "id": "1795",
     "name": "unilateral cross body cable pull down",
     "bodyPart": "shoulders",
     "equipment": "body weight",
     "target": "shoulders"
-  },
-  {
-    "id": "1796",
-    "name": "Supino",
-    "bodyPart": "chest",
-    "equipment": "body weight",
-    "target": "chest"
-  },
-  {
-    "id": "1797",
-    "name": "Supino",
-    "bodyPart": "chest",
-    "equipment": "body weight",
-    "target": "chest"
-  },
-  {
-    "id": "1798",
-    "name": "Supino",
-    "bodyPart": "upper arms",
-    "equipment": "body weight",
-    "target": "upper arms"
-  },
-  {
-    "id": "1799",
-    "name": "Supino",
-    "bodyPart": "chest",
-    "equipment": "body weight",
-    "target": "chest"
-  },
-  {
-    "id": "1800",
-    "name": "Supino Inclinado",
-    "bodyPart": "upper arms",
-    "equipment": "body weight",
-    "target": "upper arms"
   },
   {
     "id": "1801",
@@ -5556,13 +4975,6 @@
     "bodyPart": "upper legs",
     "equipment": "other",
     "target": "calves"
-  },
-  {
-    "id": "1805",
-    "name": "Barbell Squat",
-    "bodyPart": "upper legs",
-    "equipment": "barbell",
-    "target": "upper legs"
   },
   {
     "id": "1806",
@@ -5854,13 +5266,6 @@
   {
     "id": "1865",
     "name": "Banded Ankle Mobility",
-    "bodyPart": "upper legs",
-    "equipment": "body weight",
-    "target": "upper legs"
-  },
-  {
-    "id": "1866",
-    "name": "Butterfly Stretch",
     "bodyPart": "upper legs",
     "equipment": "body weight",
     "target": "upper legs"
@@ -6188,13 +5593,6 @@
     "target": "chest"
   },
   {
-    "id": "1923",
-    "name": "Rear delt raises",
-    "bodyPart": "shoulders",
-    "equipment": "body weight",
-    "target": "shoulders"
-  },
-  {
     "id": "1924",
     "name": "3008 Abdominal Crunch",
     "bodyPart": "waist",
@@ -6251,25 +5649,11 @@
     "target": "biceps"
   },
   {
-    "id": "1932",
-    "name": "Hammer Curl",
-    "bodyPart": "upper arms",
-    "equipment": "dumbbell",
-    "target": "biceps"
-  },
-  {
     "id": "1933",
     "name": "Abdominal Crunch",
     "bodyPart": "waist",
     "equipment": "other",
     "target": "abs"
-  },
-  {
-    "id": "1934",
-    "name": "Incline Dumbbell Press",
-    "bodyPart": "chest",
-    "equipment": "dumbbell",
-    "target": "chest"
   },
   {
     "id": "1935",
