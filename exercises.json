@@ -1,0 +1,6281 @@
+[
+  {
+    "id": "57",
+    "name": "Bear Walk 2",
+    "bodyPart": "chest",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "822",
+    "name": "Cable Rear Delt Fly",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "31",
+    "name": "Axe Hold",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "upper arms"
+  },
+  {
+    "id": "805",
+    "name": "Tricep Pushdown on Cable",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "981",
+    "name": "Step-ups",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "980",
+    "name": "commando pull-ups",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1022",
+    "name": "Single Arm Plank to Row",
+    "bodyPart": "back",
+    "equipment": "kettlebell",
+    "target": "shoulders"
+  },
+  {
+    "id": "820",
+    "name": "Fingerboard 20 mm edge",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "upper arms"
+  },
+  {
+    "id": "56",
+    "name": "Abdominal Stabilization",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "828",
+    "name": "Incline Bench Reverse Fly - Hello",
+    "bodyPart": "back",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "907",
+    "name": "Handstand Push Up",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "908",
+    "name": "Zone 2 Running",
+    "bodyPart": "cardio",
+    "equipment": "body weight",
+    "target": "cardio"
+  },
+  {
+    "id": "923",
+    "name": "LYING DUMBBELL ROW SS SEATED SHRUG",
+    "bodyPart": "back",
+    "equipment": "dumbbell",
+    "target": "lats"
+  },
+  {
+    "id": "927",
+    "name": "Suspended crossess",
+    "bodyPart": "cardio",
+    "equipment": "other",
+    "target": "chest"
+  },
+  {
+    "id": "958",
+    "name": "Biceps with TRX",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "biceps"
+  },
+  {
+    "id": "960",
+    "name": "Kettlebell Swing",
+    "bodyPart": "waist",
+    "equipment": "kettlebell",
+    "target": "shoulders"
+  },
+  {
+    "id": "961",
+    "name": "Swimming 50m sprints",
+    "bodyPart": "cardio",
+    "equipment": "body weight",
+    "target": "cardio"
+  },
+  {
+    "id": "975",
+    "name": "one-handed kettlebell curls",
+    "bodyPart": "upper arms",
+    "equipment": "kettlebell",
+    "target": "biceps"
+  },
+  {
+    "id": "976",
+    "name": "Medicine ball booklet crunch",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "977",
+    "name": "Box squat",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "978",
+    "name": "Knee Raises",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "abs"
+  },
+  {
+    "id": "804",
+    "name": "Sloper hanging",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "upper arms"
+  },
+  {
+    "id": "20",
+    "name": "Arnold Shoulder Press",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "43",
+    "name": "Barbell Hack Squats",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "upper legs"
+  },
+  {
+    "id": "801",
+    "name": "Dumbbell Push-Up",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "12",
+    "name": "Seated Hip Adduction",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes"
+  },
+  {
+    "id": "46",
+    "name": "Barbell Lunges Standing",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "quads"
+  },
+  {
+    "id": "802",
+    "name": "Barbell Lunges Walking",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "upper legs"
+  },
+  {
+    "id": "41",
+    "name": "Barbell Ab Rollout",
+    "bodyPart": "waist",
+    "equipment": "barbell",
+    "target": ""
+  },
+  {
+    "id": "50",
+    "name": "Barbell Triceps Extension",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps"
+  },
+  {
+    "id": "48",
+    "name": "Barbell Reverse Wrist Curl",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "upper arms"
+  },
+  {
+    "id": "962",
+    "name": "Elliptical",
+    "bodyPart": "cardio",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "983",
+    "name": "High knees",
+    "bodyPart": "cardio",
+    "equipment": "other",
+    "target": "cardio"
+  },
+  {
+    "id": "984",
+    "name": "Lunges",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "upper legs"
+  },
+  {
+    "id": "821",
+    "name": "Pullup on fingerboard",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "upper arms"
+  },
+  {
+    "id": "985",
+    "name": "Push-up rotations",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "upper arms"
+  },
+  {
+    "id": "986",
+    "name": "Side split squats left",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "upper legs"
+  },
+  {
+    "id": "987",
+    "name": "Side split squats right",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "upper legs"
+  },
+  {
+    "id": "988",
+    "name": "Bulgarian split squats left",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "upper legs"
+  },
+  {
+    "id": "989",
+    "name": "Bulgarian split squats right",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "upper legs"
+  },
+  {
+    "id": "990",
+    "name": "Kneeling kickbacks",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "upper legs"
+  },
+  {
+    "id": "991",
+    "name": "Split squats left",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "upper legs"
+  },
+  {
+    "id": "909",
+    "name": "Reverse Nordic Curl",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "quads"
+  },
+  {
+    "id": "912",
+    "name": "Straight Bar Cable Curls",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "924",
+    "name": "Cable Fly",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "992",
+    "name": "Split squats right",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "upper legs"
+  },
+  {
+    "id": "993",
+    "name": "Jump rope: basic jumps",
+    "bodyPart": "cardio",
+    "equipment": "other",
+    "target": "cardio"
+  },
+  {
+    "id": "959",
+    "name": "TRX Rows",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "979",
+    "name": "Leg raises pull up bar",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "abs"
+  },
+  {
+    "id": "994",
+    "name": "Forward arm circles",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "upper arms"
+  },
+  {
+    "id": "995",
+    "name": "Backward arm circles",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "upper arms"
+  },
+  {
+    "id": "996",
+    "name": "Mountain climbers",
+    "bodyPart": "chest",
+    "equipment": "other",
+    "target": "chest"
+  },
+  {
+    "id": "997",
+    "name": "4-count burpees",
+    "bodyPart": "chest",
+    "equipment": "other",
+    "target": "chest"
+  },
+  {
+    "id": "998",
+    "name": "No push-up burpees",
+    "bodyPart": "chest",
+    "equipment": "other",
+    "target": "chest"
+  },
+  {
+    "id": "999",
+    "name": "Reverse lunges",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "upper legs"
+  },
+  {
+    "id": "1000",
+    "name": "Floor dips",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "upper arms"
+  },
+  {
+    "id": "1001",
+    "name": "High plank",
+    "bodyPart": "chest",
+    "equipment": "other",
+    "target": "chest"
+  },
+  {
+    "id": "1002",
+    "name": "Child's pose",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "back"
+  },
+  {
+    "id": "1003",
+    "name": "Kettlebell deadlifts",
+    "bodyPart": "back",
+    "equipment": "kettlebell",
+    "target": "back"
+  },
+  {
+    "id": "92",
+    "name": "Biceps Curls With Dumbbell",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "83",
+    "name": "Bent Over Rowing",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "target": "lats"
+  },
+  {
+    "id": "112",
+    "name": "Body-Ups",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "upper arms"
+  },
+  {
+    "id": "81",
+    "name": "Bent Over Dumbbell Rows",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "94",
+    "name": "Biceps Curls With SZ-bar",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps"
+  },
+  {
+    "id": "82",
+    "name": "Bent-over Lateral Raises",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "75",
+    "name": "Benchpress Dumbbells",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "91",
+    "name": "Biceps Curls With Barbell",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps"
+  },
+  {
+    "id": "73",
+    "name": "Bench Press",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "target": "chest"
+  },
+  {
+    "id": "76",
+    "name": "Bench Press Narrow Grip",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps"
+  },
+  {
+    "id": "95",
+    "name": "Biceps Curl With Cable",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "803",
+    "name": "One Arm Triceps Extensions on Cable",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "upper arms"
+  },
+  {
+    "id": "71",
+    "name": "Single Leg Extension",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "quads"
+  },
+  {
+    "id": "79",
+    "name": "Bent High Pulls",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": ""
+  },
+  {
+    "id": "1004",
+    "name": "Forward shoulder rotation",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "back"
+  },
+  {
+    "id": "1005",
+    "name": "Backward shoulder rotation",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "back"
+  },
+  {
+    "id": "1006",
+    "name": "Chin tuck",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "back"
+  },
+  {
+    "id": "1007",
+    "name": "Head turns",
+    "bodyPart": "shoulders",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1008",
+    "name": "Left neck stretch",
+    "bodyPart": "shoulders",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1009",
+    "name": "Right neck stretch",
+    "bodyPart": "shoulders",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1010",
+    "name": "Back neck stretch",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "back"
+  },
+  {
+    "id": "1630",
+    "name": "Blaze",
+    "bodyPart": "cardio",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "265",
+    "name": "Glute Bridge",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes"
+  },
+  {
+    "id": "1697",
+    "name": "Lat Pulldown (Wide Grip)",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1012",
+    "name": "Alternating bicep curls",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "upper arms"
+  },
+  {
+    "id": "1013",
+    "name": "Left levator scapulae stretch",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "back"
+  },
+  {
+    "id": "1014",
+    "name": "Right levator scapulae stretch",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "back"
+  },
+  {
+    "id": "1015",
+    "name": "Clockwise neck circles",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "back"
+  },
+  {
+    "id": "1016",
+    "name": "Counterclockwise neck circles",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "back"
+  },
+  {
+    "id": "1017",
+    "name": "Neck half circles",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "back"
+  },
+  {
+    "id": "1018",
+    "name": "Head tilts",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "back"
+  },
+  {
+    "id": "1019",
+    "name": "Side plank right",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "waist"
+  },
+  {
+    "id": "1020",
+    "name": "Pistol squats right",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "upper legs"
+  },
+  {
+    "id": "1021",
+    "name": "Calf raises, right leg",
+    "bodyPart": "lower legs",
+    "equipment": "other",
+    "target": "lower legs"
+  },
+  {
+    "id": "910",
+    "name": "Nordic Curl",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings"
+  },
+  {
+    "id": "913",
+    "name": "Reverse Preacher Curl (Close Grip)",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps"
+  },
+  {
+    "id": "925",
+    "name": "SMITH MACHINE SLIGHT INCLINE PRESS",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "158",
+    "name": "Close-grip Lat Pull Down",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "124",
+    "name": "Braced Squat",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "quads"
+  },
+  {
+    "id": "51",
+    "name": "Barbell Wrist Curl",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "146",
+    "name": "Calf Press Using Leg Press Machine",
+    "bodyPart": "lower legs",
+    "equipment": "body weight",
+    "target": "calves"
+  },
+  {
+    "id": "154",
+    "name": "Chin-ups",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "148",
+    "name": "Calf Raises on Hackenschmitt Machine",
+    "bodyPart": "lower legs",
+    "equipment": "body weight",
+    "target": "calves"
+  },
+  {
+    "id": "137",
+    "name": "Butterfly Narrow Grip",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "165",
+    "name": "Ball crunches",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "waist"
+  },
+  {
+    "id": "135",
+    "name": "Butterfly",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "172",
+    "name": "Crunches on Machine",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "abs"
+  },
+  {
+    "id": "132",
+    "name": "Burpees",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "171",
+    "name": "Incline Crunches",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "139",
+    "name": "Butterfly Reverse",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "167",
+    "name": "Crunches",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "174",
+    "name": "Crunches With Legs Up",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "abs"
+  },
+  {
+    "id": "129",
+    "name": "Chest Press",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "161",
+    "name": "Cross-Bench Dumbbell Pullovers",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "lats"
+  },
+  {
+    "id": "182",
+    "name": "Deadhang",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "upper arms"
+  },
+  {
+    "id": "177",
+    "name": "Cycling",
+    "bodyPart": "cardio",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "145",
+    "name": "Cable Woodchoppers",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": ""
+  },
+  {
+    "id": "178",
+    "name": "Deadbug",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "waist"
+  },
+  {
+    "id": "152",
+    "name": "Chin Up",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "back"
+  },
+  {
+    "id": "189",
+    "name": "Deficit Deadlift",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "target": "hamstrings"
+  },
+  {
+    "id": "235",
+    "name": "Flutter Kicks",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": ""
+  },
+  {
+    "id": "184",
+    "name": "Deadlifts",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "target": "lats"
+  },
+  {
+    "id": "222",
+    "name": "Facepull",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": ""
+  },
+  {
+    "id": "193",
+    "name": "Diagonal Shoulder Press",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "203",
+    "name": "Dumbbell Goblet Squat",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "quads"
+  },
+  {
+    "id": "185",
+    "name": "Decline Bench Press Barbell",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "target": "chest"
+  },
+  {
+    "id": "186",
+    "name": "Decline Bench Press Dumbbell",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "205",
+    "name": "Dumbbell Lunges Standing",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "quads"
+  },
+  {
+    "id": "914",
+    "name": "Reverse EZ Bar Cable Curls",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps"
+  },
+  {
+    "id": "926",
+    "name": "Machine chest fly",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "188",
+    "name": "Decline Pushups",
+    "bodyPart": "chest",
+    "equipment": "other",
+    "target": "chest"
+  },
+  {
+    "id": "237",
+    "name": "Fly With Cable",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "206",
+    "name": "Dumbbell Lunges Walking",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "quads"
+  },
+  {
+    "id": "239",
+    "name": "Fly With Dumbbells, Decline Bench",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "238",
+    "name": "Fly With Dumbbells",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "204",
+    "name": "Dumbbell Incline Curl",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "211",
+    "name": "Dumbbell Triceps Extension",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps"
+  },
+  {
+    "id": "194",
+    "name": "Dips",
+    "bodyPart": "chest",
+    "equipment": "other",
+    "target": "chest"
+  },
+  {
+    "id": "197",
+    "name": "Dips Between Two Benches",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "208",
+    "name": "Dumbbells on Scott Machine",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "254",
+    "name": "Front Raises with Plates",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "283",
+    "name": "Hanging Leg Raises",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "abs"
+  },
+  {
+    "id": "256",
+    "name": "Front Raises",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "301",
+    "name": "Hyperextensions",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": ""
+  },
+  {
+    "id": "291",
+    "name": "Hindu Squats",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "quads"
+  },
+  {
+    "id": "257",
+    "name": "Front Squats",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes"
+  },
+  {
+    "id": "285",
+    "name": "High Knee Jumps",
+    "bodyPart": "cardio",
+    "equipment": "body weight",
+    "target": "hamstrings"
+  },
+  {
+    "id": "275",
+    "name": "Hammercurls on Cable",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "901",
+    "name": "Barbell Hip Thrust",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes"
+  },
+  {
+    "id": "915",
+    "name": "BUS DRIVERS",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "272",
+    "name": "Hammer Curls",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "279",
+    "name": "Hand Grip",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "upper arms"
+  },
+  {
+    "id": "245",
+    "name": "Skullcrusher Dumbbells",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "246",
+    "name": "Skullcrusher SZ-bar",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "292",
+    "name": "Hip Raise, Lying",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "back"
+  },
+  {
+    "id": "259",
+    "name": "Front Pull narrow",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "target": "lats"
+  },
+  {
+    "id": "258",
+    "name": "Front pull wide",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "target": "lats"
+  },
+  {
+    "id": "284",
+    "name": "Hercules Pillars",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "282",
+    "name": "Handstand Pushup",
+    "bodyPart": "shoulders",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "294",
+    "name": "Hip Thrust",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes"
+  },
+  {
+    "id": "289",
+    "name": "High Pull",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "297",
+    "name": "Hollow Hold",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1634",
+    "name": "Rope Pullover/row",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "lats"
+  },
+  {
+    "id": "1637",
+    "name": "Single arm row",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "lats"
+  },
+  {
+    "id": "1638",
+    "name": "Barbell Clean and press",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "268",
+    "name": "Good Mornings",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings"
+  },
+  {
+    "id": "310",
+    "name": "Incline Dumbbell Row",
+    "bodyPart": "back",
+    "equipment": "dumbbell",
+    "target": "lats"
+  },
+  {
+    "id": "827",
+    "name": "Front Plate Raise",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "365",
+    "name": "Leg Curls (laying)",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings"
+  },
+  {
+    "id": "354",
+    "name": "Lat Pull Down (Leaning Back)",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "355",
+    "name": "Lat Pull Down (Straight Back)",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "366",
+    "name": "Leg Curls (sitting)",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings"
+  },
+  {
+    "id": "349",
+    "name": "Lateral Rows on Cable, One Armed",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "348",
+    "name": "Lateral Raises",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "902",
+    "name": "Barbell Hip Thrust",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes"
+  },
+  {
+    "id": "916",
+    "name": "Smith Press",
+    "bodyPart": "shoulders",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "314",
+    "name": "Isometric Wipers",
+    "bodyPart": "chest",
+    "equipment": "other",
+    "target": "chest"
+  },
+  {
+    "id": "364",
+    "name": "Leg Curl",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings"
+  },
+  {
+    "id": "351",
+    "name": "Lateral-to-Front Raises",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "313",
+    "name": "Incline Push up",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "341",
+    "name": "Squats on Multipress",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "quads"
+  },
+  {
+    "id": "308",
+    "name": "Incline Dumbbell Fly",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "320",
+    "name": "Jumping Jacks",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "quads"
+  },
+  {
+    "id": "312",
+    "name": "Incline Plank With Alternate Floor Touch",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "abs"
+  },
+  {
+    "id": "331",
+    "name": "Kettlebell Swings",
+    "bodyPart": "upper legs",
+    "equipment": "kettlebell",
+    "target": "glutes"
+  },
+  {
+    "id": "346",
+    "name": "Landmine press",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "323",
+    "name": "Cable Cross-over",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "319",
+    "name": "Jogging",
+    "bodyPart": "cardio",
+    "equipment": "body weight",
+    "target": "cardio"
+  },
+  {
+    "id": "380",
+    "name": "Leverage Machine Iso Row",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "395",
+    "name": "Long-Pulley, Narrow",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "427",
+    "name": "Negative Crunches",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "abs"
+  },
+  {
+    "id": "418",
+    "name": "Military Press mit SZ-Bar",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "386",
+    "name": "Diamond push ups",
+    "bodyPart": "chest",
+    "equipment": "other",
+    "target": "chest"
+  },
+  {
+    "id": "378",
+    "name": "Leg Raises, Standing",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "abs"
+  },
+  {
+    "id": "917",
+    "name": "Straight Bar Cable Front Raise",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "379",
+    "name": "Leverage Machine Chest Press",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "957",
+    "name": "Quadriped Arm and Leg Raise",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "377",
+    "name": "Leg Raises, Lying",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "376",
+    "name": "Leg Raise",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": ""
+  },
+  {
+    "id": "394",
+    "name": "Long-Pulley (low Row)",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "397",
+    "name": "Low Box Squat - Wide Stance",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes"
+  },
+  {
+    "id": "406",
+    "name": "Lying Rotator Cuff Exercise",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "367",
+    "name": "Leg Curls (standing)",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings"
+  },
+  {
+    "id": "375",
+    "name": "Leg Press on Hackenschmidt Machine",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "quads"
+  },
+  {
+    "id": "373",
+    "name": "Leg Presses (narrow)",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "quads"
+  },
+  {
+    "id": "374",
+    "name": "Leg Presses (wide)",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "quads"
+  },
+  {
+    "id": "371",
+    "name": "Leg Press",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings"
+  },
+  {
+    "id": "423",
+    "name": "Muscle up",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "382",
+    "name": "L Hold",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "waist"
+  },
+  {
+    "id": "448",
+    "name": "Pendelay Rows",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "target": "lats"
+  },
+  {
+    "id": "484",
+    "name": "Rack Deadlift",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "glutes"
+  },
+  {
+    "id": "478",
+    "name": "Push Press",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": ""
+  },
+  {
+    "id": "445",
+    "name": "Pause Bench",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "target": "chest"
+  },
+  {
+    "id": "465",
+    "name": "Preacher Curls",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": ""
+  },
+  {
+    "id": "468",
+    "name": "Prone Scapular Retraction - Arms at Side",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": ""
+  },
+  {
+    "id": "454",
+    "name": "Pike Push Ups",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "chest"
+  },
+  {
+    "id": "487",
+    "name": "Rear Delt Raises",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "456",
+    "name": "Pistol Squat",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings"
+  },
+  {
+    "id": "477",
+    "name": "Pull Ups on Machine",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "918",
+    "name": "Seated Dumbbell Side Lateral",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "475",
+    "name": "Pull-ups",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "439",
+    "name": "Overhand Cable Curl",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "458",
+    "name": "Plank",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "545",
+    "name": "Scissors",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "abs"
+  },
+  {
+    "id": "495",
+    "name": "Reverse Curl",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps"
+  },
+  {
+    "id": "512",
+    "name": "Rowing seated, narrow grip",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "493",
+    "name": "Reverse Bar Curl",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps"
+  },
+  {
+    "id": "490",
+    "name": "Renegade Row",
+    "bodyPart": "back",
+    "equipment": "dumbbell",
+    "target": "lats"
+  },
+  {
+    "id": "513",
+    "name": "Rowing, T-bar",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "549",
+    "name": "Seated Triceps Press",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "919",
+    "name": "T-Bar row",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "target": "lats"
+  },
+  {
+    "id": "508",
+    "name": "Row",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "target": "lats"
+  },
+  {
+    "id": "516",
+    "name": "Front Wood Chop",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "back"
+  },
+  {
+    "id": "510",
+    "name": "Rowing, Lying on Bench",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "501",
+    "name": "Ring Dips",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "525",
+    "name": "Bent Over Rowing Reverse",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "target": "lats"
+  },
+  {
+    "id": "507",
+    "name": "Romanian Deadlift",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "upper legs"
+  },
+  {
+    "id": "505",
+    "name": "Roman Chair",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "waist"
+  },
+  {
+    "id": "543",
+    "name": "Shoulder Press, on Machine",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "498",
+    "name": "Reverse Grip Bench Press",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "target": "chest"
+  },
+  {
+    "id": "529",
+    "name": "Run - Interval Training",
+    "bodyPart": "cardio",
+    "equipment": "body weight",
+    "target": "cardio"
+  },
+  {
+    "id": "538",
+    "name": "Incline Bench Press - Barbell",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "target": "chest"
+  },
+  {
+    "id": "1635",
+    "name": "Modified pulldown",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "lats"
+  },
+  {
+    "id": "1639",
+    "name": "Dumbbell Bent Over Face Pull",
+    "bodyPart": "back",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1713",
+    "name": "Doorway Pectoral Stretch",
+    "bodyPart": "chest",
+    "equipment": "other",
+    "target": "chest"
+  },
+  {
+    "id": "527",
+    "name": "Run",
+    "bodyPart": "cardio",
+    "equipment": "body weight",
+    "target": "cardio"
+  },
+  {
+    "id": "539",
+    "name": "Incline Bench Press - MP",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "500",
+    "name": "Reverse Plank",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "waist"
+  },
+  {
+    "id": "562",
+    "name": "Shotgun Row",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "607",
+    "name": "Splinter Sit-ups",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": ""
+  },
+  {
+    "id": "604",
+    "name": "Speed Deadlift",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "569",
+    "name": "Shoulder Press, on Multi Press",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "591",
+    "name": "Sit-ups",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "abs"
+  },
+  {
+    "id": "906",
+    "name": "Barbell Hip Thrust",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "920",
+    "name": "V-BAR PULL DOWNS",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "567",
+    "name": "Shoulder Press, Dumbbells",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "566",
+    "name": "Shoulder Press, Barbell",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "584",
+    "name": "Single-arm Preacher Curl",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "590",
+    "name": "Sitting Calf Raises",
+    "bodyPart": "lower legs",
+    "equipment": "body weight",
+    "target": ""
+  },
+  {
+    "id": "577",
+    "name": "Side Dumbbell Trunk Flexion",
+    "bodyPart": "waist",
+    "equipment": "dumbbell",
+    "target": ""
+  },
+  {
+    "id": "583",
+    "name": "Side to Side Push Ups",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "598",
+    "name": "Smith Machine Close-grip Bench Press",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "576",
+    "name": "Side Crunch",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "571",
+    "name": "Shrugs, Barbells",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "578",
+    "name": "Side-lying External Rotation",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "575",
+    "name": "Shrugs on Multipress",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "572",
+    "name": "Shrugs, Dumbbells",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "595",
+    "name": "Skipping - Standard",
+    "bodyPart": "cardio",
+    "equipment": "body weight",
+    "target": "calves"
+  },
+  {
+    "id": "570",
+    "name": "Shoulder Shrug",
+    "bodyPart": "shoulders",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "580",
+    "name": "Side Plank",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "556",
+    "name": "Side Bends on Machine",
+    "bodyPart": "waist",
+    "equipment": "dumbbell",
+    "target": ""
+  },
+  {
+    "id": "628",
+    "name": "Straight-arm Pull Down (bar Attachment)",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "632",
+    "name": "Sumo Squats",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "629",
+    "name": "Straight-arm Pull Down (rope Attachment)",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "624",
+    "name": "Stationary Bike",
+    "bodyPart": "cardio",
+    "equipment": "body weight",
+    "target": "cardio"
+  },
+  {
+    "id": "630",
+    "name": "Sumo Deadlift",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "quads"
+  },
+  {
+    "id": "616",
+    "name": "Squat Thrust",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "627",
+    "name": "Stiff-legged Deadlifts",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "hamstrings"
+  },
+  {
+    "id": "622",
+    "name": "Standing Calf Raises",
+    "bodyPart": "lower legs",
+    "equipment": "body weight",
+    "target": "calves"
+  },
+  {
+    "id": "614",
+    "name": "Squat Jumps",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "quads"
+  },
+  {
+    "id": "615",
+    "name": "Squats",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "quads"
+  },
+  {
+    "id": "621",
+    "name": "Standing Bicep Curl",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "655",
+    "name": "Tricep Dumbbell Kickback",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps"
+  },
+  {
+    "id": "660",
+    "name": "Triceps Extensions on Cable With Bar",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "636",
+    "name": "Superman",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "661",
+    "name": "Triceps on Machine",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "623",
+    "name": "Standing Rope Forearm",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "upper arms"
+  },
+  {
+    "id": "675",
+    "name": "Turkish Get-Up",
+    "bodyPart": "waist",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "711",
+    "name": "Wall Handstand",
+    "bodyPart": "shoulders",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "723",
+    "name": "Wide-grip Pulldown",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "684",
+    "name": "Underhand Lat Pull Down",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "922",
+    "name": "SEATED CABLE MID TRAP SHRUG",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "694",
+    "name": "Upright Row w/ Dumbbells",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "695",
+    "name": "V-Bar Pulldown",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "back"
+  },
+  {
+    "id": "974",
+    "name": "Curl with kettlebell two hands",
+    "bodyPart": "upper arms",
+    "equipment": "kettlebell",
+    "target": "biceps"
+  },
+  {
+    "id": "683",
+    "name": "Power Clean",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "target": "chest"
+  },
+  {
+    "id": "702",
+    "name": "Calf raises, one legged",
+    "bodyPart": "lower legs",
+    "equipment": "body weight",
+    "target": "calves"
+  },
+  {
+    "id": "693",
+    "name": "Upright Row, SZ-bar",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "713",
+    "name": "Wall Pushup",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "691",
+    "name": "Upright Row, on Multi Press",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "722",
+    "name": "Weighted Step-ups",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "688",
+    "name": "Upper External Oblique",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": ""
+  },
+  {
+    "id": "672",
+    "name": "Trunk Rotation With Cable",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": ""
+  },
+  {
+    "id": "716",
+    "name": "Wall Slides",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "biceps"
+  },
+  {
+    "id": "687",
+    "name": "Overhead Press",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1027",
+    "name": "Elevated prayer stretch",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1028",
+    "name": "Quadruped thoracic rotation left",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "back"
+  },
+  {
+    "id": "1029",
+    "name": "Quadruped thoracic rotation right",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "back"
+  },
+  {
+    "id": "1079",
+    "name": "Plate twist",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1080",
+    "name": "Hindu Pushups",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1081",
+    "name": "Shoulder dislocates",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1082",
+    "name": "Bent over row to external rotation",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "back"
+  },
+  {
+    "id": "1083",
+    "name": "YWTs",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "back"
+  },
+  {
+    "id": "1084",
+    "name": "Dumbbell Floor Press",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "1085",
+    "name": "Dumbbell Bent Over Row",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1086",
+    "name": "Close-grip Press-ups",
+    "bodyPart": "chest",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1087",
+    "name": "Dumbbell Hang Power Cleans",
+    "bodyPart": "back",
+    "equipment": "dumbbell",
+    "target": "back"
+  },
+  {
+    "id": "1088",
+    "name": "Dumbbell sumo deadlift",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "upper legs"
+  },
+  {
+    "id": "1089",
+    "name": "Medicine ball twist",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1090",
+    "name": "Vpushup",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "chest"
+  },
+  {
+    "id": "1091",
+    "name": "Plank Shoulter Taps",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1636",
+    "name": "Unilateral Cable row",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "lats"
+  },
+  {
+    "id": "1640",
+    "name": "Dumbbell Front Squat",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes"
+  },
+  {
+    "id": "1641",
+    "name": "Kettlebell One Legged Deadlift",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes"
+  },
+  {
+    "id": "1642",
+    "name": "Dumbbell Hip Thrust",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes"
+  },
+  {
+    "id": "1643",
+    "name": "Dumbbell Incline Fly",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "1644",
+    "name": "Dumbbell Decline Bench Press",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "1645",
+    "name": "Dumbbell Shrug",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1648",
+    "name": "Weighted Crunch",
+    "bodyPart": "waist",
+    "equipment": "dumbbell",
+    "target": ""
+  },
+  {
+    "id": "1649",
+    "name": "Concentration Curl",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "1650",
+    "name": "Dumbbell Side Bend",
+    "bodyPart": "waist",
+    "equipment": "dumbbell",
+    "target": ""
+  },
+  {
+    "id": "1651",
+    "name": "Dumbbell Rear Lunge",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes"
+  },
+  {
+    "id": "1653",
+    "name": "Dumbbell Side Squat",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes"
+  },
+  {
+    "id": "1654",
+    "name": "Machine lateral wise",
+    "bodyPart": "shoulders",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1655",
+    "name": "Machine Chest Press Exercise",
+    "bodyPart": "chest",
+    "equipment": "other",
+    "target": "chest"
+  },
+  {
+    "id": "1652",
+    "name": "Dumbbell Romanian Deadlift",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "hamstrings"
+  },
+  {
+    "id": "9",
+    "name": "2 Handed Kettlebell Swing",
+    "bodyPart": "waist",
+    "equipment": "kettlebell",
+    "target": "waist"
+  },
+  {
+    "id": "911",
+    "name": "Incline Skull Crush",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "829",
+    "name": "Rear Delt Raise",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1011",
+    "name": "Front neck stretch",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "back"
+  },
+  {
+    "id": "1093",
+    "name": "Rowing Machine",
+    "bodyPart": "cardio",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1094",
+    "name": "Seated Bench Press",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1095",
+    "name": "Seated bench press",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1096",
+    "name": "Abduction while standing",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "upper legs"
+  },
+  {
+    "id": "1098",
+    "name": "Seated rear delt rise",
+    "bodyPart": "back",
+    "equipment": "dumbbell",
+    "target": "lats"
+  },
+  {
+    "id": "1099",
+    "name": "Dynamic side hold",
+    "bodyPart": "waist",
+    "equipment": "kettlebell",
+    "target": ""
+  },
+  {
+    "id": "1100",
+    "name": "Wall balls",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1101",
+    "name": "Horizontal traction isometry",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1102",
+    "name": "Alternate back lunges",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "1103",
+    "name": "walking bridge",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "1104",
+    "name": "Walking",
+    "bodyPart": "cardio",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1105",
+    "name": "Seated Knee Tuck",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "1106",
+    "name": "Seated Knee Tuck",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "1109",
+    "name": "Cable Concentration Curl",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "1111",
+    "name": "Push-Ups | Incline",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1112",
+    "name": "Push-Ups | Decline",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1113",
+    "name": "Push-Ups | Parallettes",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1114",
+    "name": "Rest (for timed workouts)",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "upper arms"
+  },
+  {
+    "id": "1115",
+    "name": "3D lunge warmup",
+    "bodyPart": "cardio",
+    "equipment": "dumbbell",
+    "target": "cardio"
+  },
+  {
+    "id": "1116",
+    "name": "Dumbbell farmer's carrie",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "upper legs"
+  },
+  {
+    "id": "1119",
+    "name": "Remo maquina agarre estrecho",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "back"
+  },
+  {
+    "id": "1120",
+    "name": "Remo maquina agarre estrecho supino",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "back"
+  },
+  {
+    "id": "1124",
+    "name": "Jalón abierto",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1125",
+    "name": "Jalón abierto supino",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1126",
+    "name": "Jalón cerrado",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1127",
+    "name": "Jalón cerrado supino",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1131",
+    "name": "Extensión de gluteos en polea",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes"
+  },
+  {
+    "id": "1132",
+    "name": "Extensión de gluteo en  máquina",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes"
+  },
+  {
+    "id": "1136",
+    "name": "JALONES PECHO NEUTRO",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "1137",
+    "name": "PULL OVER POLEA ALTA",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1138",
+    "name": "JALON EN BANCO INCLINADO",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1141",
+    "name": "Arabesque",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1143",
+    "name": "Back extensión",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1185",
+    "name": "Triceps Pushdown",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "1186",
+    "name": "One Arm Bent Row",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "back"
+  },
+  {
+    "id": "1187",
+    "name": "High Pull",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1188",
+    "name": "Flexión lateral",
+    "bodyPart": "waist",
+    "equipment": "dumbbell",
+    "target": "waist"
+  },
+  {
+    "id": "1190",
+    "name": "Curl de biceps con agarre prono",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "1192",
+    "name": "Alternating Biceps Curls With Dumbbell",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "1193",
+    "name": "Russian Twist",
+    "bodyPart": "waist",
+    "equipment": "dumbbell",
+    "target": "lats"
+  },
+  {
+    "id": "1194",
+    "name": "PALLOF PRESS",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1195",
+    "name": "Side Slides + Squats",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "quads"
+  },
+  {
+    "id": "1196",
+    "name": "Wall Drills",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "quads"
+  },
+  {
+    "id": "1198",
+    "name": "Inverted Rows",
+    "bodyPart": "chest",
+    "equipment": "other",
+    "target": "biceps"
+  },
+  {
+    "id": "1200",
+    "name": "Tibialis raises",
+    "bodyPart": "lower legs",
+    "equipment": "other",
+    "target": "lower legs"
+  },
+  {
+    "id": "1201",
+    "name": "Dragon squat",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "quads"
+  },
+  {
+    "id": "1202",
+    "name": "Side Lying Hip Abduction",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "upper legs"
+  },
+  {
+    "id": "1203",
+    "name": "Calf raises, left leg",
+    "bodyPart": "lower legs",
+    "equipment": "other",
+    "target": "calves"
+  },
+  {
+    "id": "1204",
+    "name": "Cycling cardio session",
+    "bodyPart": "cardio",
+    "equipment": "body weight",
+    "target": "cardio"
+  },
+  {
+    "id": "1205",
+    "name": "Wrist curl, dumbbells",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "upper arms"
+  },
+  {
+    "id": "1206",
+    "name": "scorpion kick",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "back"
+  },
+  {
+    "id": "1207",
+    "name": "Scorpion Kick",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "back"
+  },
+  {
+    "id": "1208",
+    "name": "Prisoner Squat",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "upper legs"
+  },
+  {
+    "id": "1210",
+    "name": "Skydiver with arms in T-position",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "back"
+  },
+  {
+    "id": "1211",
+    "name": "Romanian deadlift, single leg",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "hamstrings"
+  },
+  {
+    "id": "84",
+    "name": "Bent Over Rowing Reverse",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "target": "lats"
+  },
+  {
+    "id": "260",
+    "name": "Full Sit Outs",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "1215",
+    "name": "Reverse Snow Angel",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1216",
+    "name": "Recruitment Pulls",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "upper arms"
+  },
+  {
+    "id": "1217",
+    "name": "Finger Pushup",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "upper arms"
+  },
+  {
+    "id": "1218",
+    "name": "knee push-ups",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1219",
+    "name": "Australian pull-ups",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1656",
+    "name": "Cable Chest Press - Decline",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1714",
+    "name": "Shoulder Dumbbell Pendular Exercise",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1715",
+    "name": "Shoulder External Rotation with Dumbbell",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1223",
+    "name": "Claps over the head",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1224",
+    "name": "Dumbbell drag curls",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "369",
+    "name": "Leg Extension",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "quads"
+  },
+  {
+    "id": "1716",
+    "name": "Incline Shoulder Press Up",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1225",
+    "name": "Dumbbell wide bicep curls",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "441",
+    "name": "Overhead Squat",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "1717",
+    "name": "Kneck extension",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps"
+  },
+  {
+    "id": "1226",
+    "name": "Dumbbell bicep curl to press",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "530",
+    "name": "Run - Treadmill",
+    "bodyPart": "cardio",
+    "equipment": "body weight",
+    "target": "cardio"
+  },
+  {
+    "id": "1227",
+    "name": "Dumbbell rear delt row",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "537",
+    "name": "Incline Bench Press - Dumbbell",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "1228",
+    "name": "Dumbbell close grip bench press",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "599",
+    "name": "Snach",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1229",
+    "name": "Dumbbell upright-row",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "173",
+    "name": "Crunches With Cable",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "abs"
+  },
+  {
+    "id": "1230",
+    "name": "Triceps stretch left",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "triceps"
+  },
+  {
+    "id": "921",
+    "name": "Seated Cable Rows",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1231",
+    "name": "Triceps stretch right",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "triceps"
+  },
+  {
+    "id": "1232",
+    "name": "Standing biceps stretch left",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "659",
+    "name": "Triceps Extensions on Cable",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "1233",
+    "name": "Standing biceps stretch right",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1234",
+    "name": "Dumbbell Single-leg Hip Thrust",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes"
+  },
+  {
+    "id": "674",
+    "name": "Rowing with TRX band",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "back"
+  },
+  {
+    "id": "1718",
+    "name": "Remo alto polea alta",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "target": ""
+  },
+  {
+    "id": "718",
+    "name": "Wall Squat",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1238",
+    "name": "Frog stand",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1239",
+    "name": "Standing Calf Stretch",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "calves"
+  },
+  {
+    "id": "1092",
+    "name": "Bag training",
+    "bodyPart": "cardio",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1240",
+    "name": "Standing Soleus Stretch",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1241",
+    "name": "Exercise Band Dorsiflexion",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1117",
+    "name": "Seated Cable Row",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "back"
+  },
+  {
+    "id": "1242",
+    "name": "Exercise Band Plantarflexion",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "calves"
+  },
+  {
+    "id": "1243",
+    "name": "Double Leg Calf Raise",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "calves"
+  },
+  {
+    "id": "1244",
+    "name": "Yoga exercise: Cow-cat",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1245",
+    "name": "Front Lever",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "lats"
+  },
+  {
+    "id": "1209",
+    "name": "Shoulder width three-point push-up",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "upper arms"
+  },
+  {
+    "id": "1246",
+    "name": "TRX roll out",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "1248",
+    "name": "Ice Scream maker",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "lats"
+  },
+  {
+    "id": "851",
+    "name": "Leg Extension",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "quads"
+  },
+  {
+    "id": "1252",
+    "name": "Front lever pull-up",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "1214",
+    "name": "Front lever tuck",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1259",
+    "name": "TRX Obliques",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": ""
+  },
+  {
+    "id": "1260",
+    "name": "TRX hammer curl",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "142",
+    "name": "Cable External Rotation",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1261",
+    "name": "TRX gorilla biceps curl",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": ""
+  },
+  {
+    "id": "1262",
+    "name": "Trx Single Arm Bicep Curl",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "1263",
+    "name": "Back bridge",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "202",
+    "name": "Dumbbell Concentration Curl",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": ""
+  },
+  {
+    "id": "1266",
+    "name": "TRX Tricep Extension",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "1269",
+    "name": "TRX dips",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "1270",
+    "name": "Low Pulley Cable fFly",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1271",
+    "name": "Low Pulley Cable fFly",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1272",
+    "name": "Low Pulley Cable fFly",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1273",
+    "name": "Pullover",
+    "bodyPart": "back",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "1274",
+    "name": "Sitting Calf Stretch (Dorsiflexion)",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "calves"
+  },
+  {
+    "id": "1275",
+    "name": "Plantarflexion Stretch with Band",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "1276",
+    "name": "Incline Dumbbell Bench Press",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "1277",
+    "name": "Incline Dumbbell Press",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "1278",
+    "name": "Dumbbell Chest Press",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1280",
+    "name": "Biceps Close Grip Pull Down",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "1282",
+    "name": "Isometria trazioni impugnatura inversa",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1283",
+    "name": "Incline Chest-Supported Dumbbell Row",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "1284",
+    "name": "Pseudo Planche Push-up",
+    "bodyPart": "shoulders",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1285",
+    "name": "Talons fesses",
+    "bodyPart": "cardio",
+    "equipment": "other",
+    "target": "calves"
+  },
+  {
+    "id": "1286",
+    "name": "Dynamic Planche",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "1287",
+    "name": "Reach ups",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1288",
+    "name": "Planche de cote dynamique",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1289",
+    "name": "Seated Dumbbell Curls",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "1290",
+    "name": "Reverse Grip Barbell Curls",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "biceps"
+  },
+  {
+    "id": "1292",
+    "name": "Trazioni impugnatura inversa",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "1293",
+    "name": "One armed push-ups",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "chest"
+  },
+  {
+    "id": "1294",
+    "name": "Arco femorale una gamba",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "1295",
+    "name": "Barbell Bench Press - NB",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "target": "chest"
+  },
+  {
+    "id": "1296",
+    "name": "Low-Cable Cross-Over - NB",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1297",
+    "name": "EZ-Bar Skullcrusher - NB",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps"
+  },
+  {
+    "id": "1298",
+    "name": "High-Cable Cross Tricep Extention - NB",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "1657",
+    "name": "Preacher Curl - Internally Rotated",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "1659",
+    "name": "Lat Pulldown - Cross Body Single Arm",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1660",
+    "name": "Cable Chest Press - Incline",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1302",
+    "name": "JM Press",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps"
+  },
+  {
+    "id": "1303",
+    "name": "Helms Row",
+    "bodyPart": "back",
+    "equipment": "dumbbell",
+    "target": "lats"
+  },
+  {
+    "id": "1304",
+    "name": "Meadows Row",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "target": "lats"
+  },
+  {
+    "id": "1661",
+    "name": "Cable Triceps Press",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "1662",
+    "name": "Cable Tri Extension - Internal Rotation",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "1307",
+    "name": "Front Plank",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "1665",
+    "name": "Cable Tri Extension - External Rotation",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "1666",
+    "name": "Curl  - With Shoulder Elevated",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "1312",
+    "name": "Bodyweight Squat HD",
+    "bodyPart": "cardio",
+    "equipment": "other",
+    "target": "quads"
+  },
+  {
+    "id": "1313",
+    "name": "Lying Leg Raise",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "1314",
+    "name": "Jumping Jack HD",
+    "bodyPart": "cardio",
+    "equipment": "other",
+    "target": "quads"
+  },
+  {
+    "id": "1315",
+    "name": "Bodyweight Squat HD",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "1316",
+    "name": "Jumping Jack HD",
+    "bodyPart": "cardio",
+    "equipment": "other",
+    "target": "calves"
+  },
+  {
+    "id": "1317",
+    "name": "Plank",
+    "bodyPart": "chest",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1318",
+    "name": "High Knee Skips HD",
+    "bodyPart": "cardio",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1319",
+    "name": "Crunches HD",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1320",
+    "name": "Bench Dips On Floor HD",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "biceps"
+  },
+  {
+    "id": "1322",
+    "name": "Kopfüber Gewichtaufheben",
+    "bodyPart": "waist",
+    "equipment": "kettlebell",
+    "target": "abs"
+  },
+  {
+    "id": "1324",
+    "name": "Bodyweight lunge HD",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "quads"
+  },
+  {
+    "id": "1325",
+    "name": "Lateral Push Off",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "calves"
+  },
+  {
+    "id": "1668",
+    "name": "One Arm Overhead Cable Tricep Extension",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "triceps"
+  },
+  {
+    "id": "1669",
+    "name": "Jumping Jacks",
+    "bodyPart": "cardio",
+    "equipment": "other",
+    "target": "calves"
+  },
+  {
+    "id": "1670",
+    "name": "Leg Swings (Front–Back)",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1672",
+    "name": "Seated Hip Abduction",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "1673",
+    "name": "Dumbbell Romanian Deadlifts",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "quads"
+  },
+  {
+    "id": "1674",
+    "name": "Dumbbell Floor Press",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "1333",
+    "name": "Forearm Curls (underhand grip)",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "upper arms"
+  },
+  {
+    "id": "1675",
+    "name": "Push-Ups",
+    "bodyPart": "chest",
+    "equipment": "other",
+    "target": "chest"
+  },
+  {
+    "id": "1336",
+    "name": "Triceps Overhead (Dumbbell)",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps"
+  },
+  {
+    "id": "1337",
+    "name": "Shoulder Press (Dumbbell)",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1338",
+    "name": "Schoulder Raise (Dumbbell)",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1676",
+    "name": "Dumbbell Bench Press",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "1679",
+    "name": "Wall Angels",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": ""
+  },
+  {
+    "id": "1680",
+    "name": "seated figure four",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes"
+  },
+  {
+    "id": "1683",
+    "name": "Zottman curl",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "1348",
+    "name": "Lower Back Extensions",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "back"
+  },
+  {
+    "id": "1350",
+    "name": "Lat Pull Down (close grip)",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "back"
+  },
+  {
+    "id": "650",
+    "name": "Thruster",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1684",
+    "name": "Dumbbell Thruster",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1353",
+    "name": "Dumbbell Hex Press",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "1686",
+    "name": "Glute Bridge Single-Arm Press",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "1687",
+    "name": "Bear crawl pull through",
+    "bodyPart": "waist",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1360",
+    "name": "Double Kettlebell Clean and Press",
+    "bodyPart": "upper arms",
+    "equipment": "kettlebell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1361",
+    "name": "Double Kettlebell Front Squat",
+    "bodyPart": "upper legs",
+    "equipment": "kettlebell",
+    "target": "glutes"
+  },
+  {
+    "id": "1389",
+    "name": "Single Leg RDL",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1363",
+    "name": "Blackroll",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "back"
+  },
+  {
+    "id": "1365",
+    "name": "Calf Raise with machine (seated)",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "1366",
+    "name": "Dumbbell Split Squat",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "upper legs"
+  },
+  {
+    "id": "1370",
+    "name": "Dumbbell Deadlift",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "upper legs"
+  },
+  {
+    "id": "1372",
+    "name": "Triceps Dips (Assisted)",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "1373",
+    "name": "box jumps",
+    "bodyPart": "cardio",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "1374",
+    "name": "Rotary Torso Machine",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "abs"
+  },
+  {
+    "id": "1378",
+    "name": "Cable Lateral Raises (Single Arm)",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1376",
+    "name": "Recumbent Bike",
+    "bodyPart": "cardio",
+    "equipment": "body weight",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1377",
+    "name": "TORSO TWIST",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "1321",
+    "name": "Side Plank",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1380",
+    "name": "Band pull-aparts",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "back"
+  },
+  {
+    "id": "1381",
+    "name": "Upper Back",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1384",
+    "name": "Pullover Machine",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1387",
+    "name": "Hamstring Kicks",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1388",
+    "name": "Single Leg RDL",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1390",
+    "name": "Toe Touch",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1391",
+    "name": "Elephant Walks",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1392",
+    "name": "Good Morning",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1393",
+    "name": "Single Leg Hamstring Stretch",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1394",
+    "name": "Sit & Reach",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1395",
+    "name": "Crossbody Leg Swings",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1396",
+    "name": "Standing Pancake",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1398",
+    "name": "Hamstring Chokes",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1399",
+    "name": "Roll Down",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1400",
+    "name": "Crossbody Hamstring Stretch",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1658",
+    "name": "Preacher Curl - Externally Rotated",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "1688",
+    "name": "Kickstand RDL",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1406",
+    "name": "Plank-to-Elbow Extension",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1407",
+    "name": "Cossack squat",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes"
+  },
+  {
+    "id": "1408",
+    "name": "Wall-sit",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes"
+  },
+  {
+    "id": "1409",
+    "name": "Dragon-flag",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": ""
+  },
+  {
+    "id": "1410",
+    "name": "Plank with Alternating Leg Lift",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "1411",
+    "name": "Heel Touches",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1412",
+    "name": "bicycle crunches",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "1414",
+    "name": "Hack Squats",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "quads"
+  },
+  {
+    "id": "1415",
+    "name": "Dumbbell Crunches",
+    "bodyPart": "waist",
+    "equipment": "dumbbell",
+    "target": "abs"
+  },
+  {
+    "id": "1424",
+    "name": "Biceps Curl Machine",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "1425",
+    "name": "Toe Taps",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "1426",
+    "name": "Standing Side Crunches",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1429",
+    "name": "Dumbbell Shoulder Rotations",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1430",
+    "name": "Plate Pinch Hold",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1433",
+    "name": "Reverse Wood Chops",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "1434",
+    "name": "Lat Pull DB",
+    "bodyPart": "back",
+    "equipment": "dumbbell",
+    "target": "lats"
+  },
+  {
+    "id": "1435",
+    "name": "Scapula Pulls",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1436",
+    "name": "Pin Bench Press BB",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "target": "chest"
+  },
+  {
+    "id": "1437",
+    "name": "Pin Squat",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1438",
+    "name": "Clean",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "glutes"
+  },
+  {
+    "id": "1439",
+    "name": "Pin OHP",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1440",
+    "name": "Push OHP",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1441",
+    "name": "Incline OHP DB",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1442",
+    "name": "Kreis Press DB",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1443",
+    "name": "Shoulder Raise Side and Front DB",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1444",
+    "name": "Incline Chest Press DB",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "1445",
+    "name": "Jerk OL",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1446",
+    "name": "Clean and Jerk OL",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1447",
+    "name": "Snatch OL",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1448",
+    "name": "Seated W Curl",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "1449",
+    "name": "ClimbMill",
+    "bodyPart": "cardio",
+    "equipment": "body weight",
+    "target": "quads"
+  },
+  {
+    "id": "1450",
+    "name": "Cobra Stretch",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "1451",
+    "name": "Torso rotation strech",
+    "bodyPart": "chest",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1452",
+    "name": "Knee to Chest Stretch",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "1455",
+    "name": "Towel Superman",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1457",
+    "name": "Cable Press Around",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1458",
+    "name": "Cross-Body Cable Y-Raise",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1461",
+    "name": "No Leg Drive Dumbbell Chest Press",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1462",
+    "name": "punches",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1463",
+    "name": "Dumbbell Underhand Dead Row",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "1464",
+    "name": "Pause Hack Squats",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "quads"
+  },
+  {
+    "id": "1465",
+    "name": "Spider Curl",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "biceps"
+  },
+  {
+    "id": "1466",
+    "name": "Calf Raise using Hack Squat Machine",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "calves"
+  },
+  {
+    "id": "1467",
+    "name": "Incline Close Grip Barbell Bench Press",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps"
+  },
+  {
+    "id": "1468",
+    "name": "Floor Skull Crusher",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps"
+  },
+  {
+    "id": "1469",
+    "name": "Bent over Cable Flye",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1470",
+    "name": "1-Arm Half-Kneeling Lat Pulldown",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1471",
+    "name": "Kroc Row",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1472",
+    "name": "Cable Shrug-In",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": ""
+  },
+  {
+    "id": "1473",
+    "name": "Reverse Cable Flye",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1474",
+    "name": "W-Raise",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1475",
+    "name": "Black Widow Knee Slides",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": ""
+  },
+  {
+    "id": "1476",
+    "name": "Butterfly Sit Up",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1477",
+    "name": "Seated Corkscrew",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1478",
+    "name": "Levitation Crunch",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "1479",
+    "name": "Sit Up Elbow Thrust",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1480",
+    "name": "Lying Triceps Extensions",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps"
+  },
+  {
+    "id": "1481",
+    "name": "Drag Pushdown",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps"
+  },
+  {
+    "id": "1482",
+    "name": "Dumbbell Cheat Curl",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "1483",
+    "name": "Bizeps Curls Trifecta",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "1484",
+    "name": "Omni Cable Cross-over",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "target": "chest"
+  },
+  {
+    "id": "1485",
+    "name": "Rocking Triceps Pushdown",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": "triceps"
+  },
+  {
+    "id": "1486",
+    "name": "Alternating High Cable Row",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1487",
+    "name": "Hyper Y W Combo",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1488",
+    "name": "Dumbbell Pullover",
+    "bodyPart": "back",
+    "equipment": "dumbbell",
+    "target": "lats"
+  },
+  {
+    "id": "1489",
+    "name": "Plank Jacks",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "glutes"
+  },
+  {
+    "id": "1490",
+    "name": "Lying Triceps Kickback",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps"
+  },
+  {
+    "id": "1491",
+    "name": "Remada unilateral no cabo",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1492",
+    "name": "High Row",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1493",
+    "name": "Bayesian Curl",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "1494",
+    "name": "Sitting Calf Raises",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "calves"
+  },
+  {
+    "id": "1551",
+    "name": "Push-Up",
+    "bodyPart": "chest",
+    "equipment": "other",
+    "target": "chest"
+  },
+  {
+    "id": "1496",
+    "name": "DB Upper Chest Variation",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "1497",
+    "name": "DB Underhand bench press",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1498",
+    "name": "Elbows Tucked DB Bench Press",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "1499",
+    "name": "DB Skull Crushers",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "triceps"
+  },
+  {
+    "id": "1500",
+    "name": "DB UCV",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "1501",
+    "name": "Alternative DB Gorilla rows",
+    "bodyPart": "back",
+    "equipment": "dumbbell",
+    "target": "lats"
+  },
+  {
+    "id": "1502",
+    "name": "DB Cross Body Hammer Curls",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "1503",
+    "name": "Dumbbell Frog Press",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes"
+  },
+  {
+    "id": "1504",
+    "name": "Dumbbel Bradford press",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1567",
+    "name": "Alternating dumbbell hammer curl",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "1689",
+    "name": "Cable Fly Middle Chest",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1690",
+    "name": "Cable Fly Upper Chest",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1508",
+    "name": "High-Incline Smith Machine Press",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1509",
+    "name": "Cable Tricep Kickback",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "1510",
+    "name": "Neutral Grip Lat Pulldown",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1511",
+    "name": "Kong Curl",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "1512",
+    "name": "Drop Curl",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "1513",
+    "name": "Overhead Cable Tricep Extension",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "1514",
+    "name": "Lateral Walk",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "glutes"
+  },
+  {
+    "id": "1515",
+    "name": "Leg Press Toe Press",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "calves"
+  },
+  {
+    "id": "1516",
+    "name": "Handstand",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1691",
+    "name": "Cable Fly Lower Chest",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1692",
+    "name": "Incline Smith Press",
+    "bodyPart": "chest",
+    "equipment": "other",
+    "target": "chest"
+  },
+  {
+    "id": "1519",
+    "name": "Overhead Triceps Extension",
+    "bodyPart": "upper arms",
+    "equipment": "barbell",
+    "target": ""
+  },
+  {
+    "id": "1693",
+    "name": "Incline Static Hold",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "1521",
+    "name": "Pendular hack",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "1694",
+    "name": "Flat Machine Press",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1523",
+    "name": "Sled Push",
+    "bodyPart": "cardio",
+    "equipment": "body weight",
+    "target": "calves"
+  },
+  {
+    "id": "1524",
+    "name": "Battle Ropes",
+    "bodyPart": "cardio",
+    "equipment": "body weight",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1525",
+    "name": "Ball Slams",
+    "bodyPart": "cardio",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1526",
+    "name": "Ski Machine",
+    "bodyPart": "cardio",
+    "equipment": "body weight",
+    "target": "calves"
+  },
+  {
+    "id": "1527",
+    "name": "Pendulum Squat",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "quads"
+  },
+  {
+    "id": "1528",
+    "name": "Glute Drive",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes"
+  },
+  {
+    "id": "1529",
+    "name": "Toes to bar",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "waist"
+  },
+  {
+    "id": "1530",
+    "name": "Lying Dumbbell Curls",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "1531",
+    "name": "Cable Curls",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "biceps"
+  },
+  {
+    "id": "1695",
+    "name": "Pull-Ups (Wide Grip)",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "lats"
+  },
+  {
+    "id": "1698",
+    "name": "Barbell Row (Overhand)",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "target": "lats"
+  },
+  {
+    "id": "1699",
+    "name": "Barbell Row (Underhand)",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "target": "lats"
+  },
+  {
+    "id": "1535",
+    "name": "lying bicep curl",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "1536",
+    "name": "Delt Stretch",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1537",
+    "name": "Pull-up Isometric Hold",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "1700",
+    "name": "Barbell Romanian Deadlift (RDL)",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "target": "lats"
+  },
+  {
+    "id": "1701",
+    "name": "One-Arm Heavy Row",
+    "bodyPart": "back",
+    "equipment": "dumbbell",
+    "target": "lats"
+  },
+  {
+    "id": "1702",
+    "name": "Jalón al pecho con agarre ancho",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1703",
+    "name": "Patadas traseras",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "1542",
+    "name": "Wide Pull Up",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1704",
+    "name": "Tuck L-sit",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "abs"
+  },
+  {
+    "id": "1545",
+    "name": "Archer Pull Up",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1546",
+    "name": "Larsen Press",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "target": "chest"
+  },
+  {
+    "id": "1706",
+    "name": "Bulgarian Squat with Dumbbells",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes"
+  },
+  {
+    "id": "1548",
+    "name": "Stair Master",
+    "bodyPart": "cardio",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1549",
+    "name": "Stair Master",
+    "bodyPart": "cardio",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1707",
+    "name": "Elevación lateral polea",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1710",
+    "name": "Butchers Block Stretch",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1554",
+    "name": "Clap Push-UP",
+    "bodyPart": "chest",
+    "equipment": "other",
+    "target": "chest"
+  },
+  {
+    "id": "1711",
+    "name": "Sleeper Stretch",
+    "bodyPart": "shoulders",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1556",
+    "name": "Devil’s Press",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1572",
+    "name": "Bird Dog",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "1573",
+    "name": "Ab wheel",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "1574",
+    "name": "Schwimmen",
+    "bodyPart": "cardio",
+    "equipment": "body weight",
+    "target": "cardio"
+  },
+  {
+    "id": "1575",
+    "name": "Standing Dowel Shoulder press",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1576",
+    "name": "Snap Down",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1577",
+    "name": "Bretzel stretch",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "glutes"
+  },
+  {
+    "id": "1578",
+    "name": "Hip hinge",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1579",
+    "name": "Bronco",
+    "bodyPart": "cardio",
+    "equipment": "other",
+    "target": "cardio"
+  },
+  {
+    "id": "1580",
+    "name": "Perpendicular Unilateral Landmine Row",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1581",
+    "name": "Trap press",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "target": ""
+  },
+  {
+    "id": "1582",
+    "name": "Side-laying interior rotation",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "target": ""
+  },
+  {
+    "id": "1583",
+    "name": "Supine press",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "target": ""
+  },
+  {
+    "id": "1584",
+    "name": "March or jog in place",
+    "bodyPart": "cardio",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1589",
+    "name": "Estiramiento de piernas y cadera",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1590",
+    "name": "Estiramiento de brazos y cuello",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1591",
+    "name": "Respiración profunda (de pie o sentado)",
+    "bodyPart": "chest",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1592",
+    "name": "Meditación guiada o libre",
+    "bodyPart": "cardio",
+    "equipment": "other",
+    "target": "cardio"
+  },
+  {
+    "id": "1593",
+    "name": "Smith Machine Split Squat",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1594",
+    "name": "Smith Machine Split Squat",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1696",
+    "name": "Pull-Ups (Neutral Grip)",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1709",
+    "name": "Reverse Fly Standing",
+    "bodyPart": "shoulders",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1712",
+    "name": "Horizontal Shoulder Flexion Stretch",
+    "bodyPart": "shoulders",
+    "equipment": "other",
+    "target": "chest"
+  },
+  {
+    "id": "1719",
+    "name": "Jalon caballero unialteral",
+    "bodyPart": "back",
+    "equipment": "dumbbell",
+    "target": ""
+  },
+  {
+    "id": "1602",
+    "name": "Dumbbell Scaption",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": ""
+  },
+  {
+    "id": "1603",
+    "name": "Leg curl with elastic",
+    "bodyPart": "lower legs",
+    "equipment": "other",
+    "target": "calves"
+  },
+  {
+    "id": "1604",
+    "name": "Sliding Lateral Lunge",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1605",
+    "name": "Copenhagen Adduction Exercise",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes"
+  },
+  {
+    "id": "1606",
+    "name": "Arm Raises (T/Y/I)",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1607",
+    "name": "Typewriter Pull-ups",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "biceps"
+  },
+  {
+    "id": "1608",
+    "name": "Bodyweight Biceps Curl",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "biceps"
+  },
+  {
+    "id": "1723",
+    "name": "Glute Kickback (Machine)",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes"
+  },
+  {
+    "id": "1724",
+    "name": "Standing Adduction (Cable)",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "1725",
+    "name": "Seated Row (Machine)",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1612",
+    "name": "kettlebell sumo deadlift",
+    "bodyPart": "upper legs",
+    "equipment": "kettlebell",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1613",
+    "name": "rubber band glute kickback",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "1614",
+    "name": "Dumbbell Hip Thrust",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes"
+  },
+  {
+    "id": "1615",
+    "name": "Treadmill Cardio",
+    "bodyPart": "cardio",
+    "equipment": "other",
+    "target": "cardio"
+  },
+  {
+    "id": "1616",
+    "name": "Patada de burro con mancuerna",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1617",
+    "name": "Crunch en maquina",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": ""
+  },
+  {
+    "id": "1618",
+    "name": "Cardio en bicicleta estática",
+    "bodyPart": "cardio",
+    "equipment": "other",
+    "target": "cardio"
+  },
+  {
+    "id": "1726",
+    "name": "Straight-Arm Pulldown (Cable)",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1620",
+    "name": "Seated Dumbbell Calf Raise",
+    "bodyPart": "lower legs",
+    "equipment": "dumbbell",
+    "target": "calves"
+  },
+  {
+    "id": "1621",
+    "name": "Unilateral Cable row",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1727",
+    "name": "Side Straight-Arm Pulldown (Cable)",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1728",
+    "name": "Shoulder Internal Rotation (Cable)",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1729",
+    "name": "Shoulder External Rotation (Cable)",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1730",
+    "name": "Side Lateral Raise (Cable)",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1731",
+    "name": "Front Raise (Cable)",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1732",
+    "name": "Face pulls with yellow/green band",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "lats"
+  },
+  {
+    "id": "1733",
+    "name": "Isometric Squat to Failure",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "1734",
+    "name": "Single-Leg Lunge with Kettlebell:",
+    "bodyPart": "upper legs",
+    "equipment": "kettlebell",
+    "target": "calves"
+  },
+  {
+    "id": "1735",
+    "name": "Single-leg side glute press",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "calves"
+  },
+  {
+    "id": "1736",
+    "name": "Single-Leg Deadlift with Dumbbell",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1737",
+    "name": "Assisted chin-ups",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "back"
+  },
+  {
+    "id": "1738",
+    "name": "Neutral-grip pull-ups or TRX rows",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1739",
+    "name": "Shrimp Squad",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "upper legs"
+  },
+  {
+    "id": "1740",
+    "name": "Single Leg Glute Bridge",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "1741",
+    "name": "L-Sit Pull-ups",
+    "bodyPart": "upper arms",
+    "equipment": "other",
+    "target": "upper arms"
+  },
+  {
+    "id": "1742",
+    "name": "Back Lever",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "back"
+  },
+  {
+    "id": "1743",
+    "name": "Windshield Wipers",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": ""
+  },
+  {
+    "id": "1744",
+    "name": "Machine Side Lateral Raises",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1745",
+    "name": "Cable Front Raise with a small bar",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1746",
+    "name": "Floor dumbbell bench press",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "1747",
+    "name": "Smith machine squat",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes"
+  },
+  {
+    "id": "1748",
+    "name": "Machine Hip Abduction",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes"
+  },
+  {
+    "id": "1749",
+    "name": "Seated Triceps Press",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "1750",
+    "name": "Romanian Deadlift",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes"
+  },
+  {
+    "id": "1751",
+    "name": "Cable pull through",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes"
+  },
+  {
+    "id": "1752",
+    "name": "Side lateral raise - Front (Cable)",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1753",
+    "name": "Side lateral raise - Back (Cable)",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1754",
+    "name": "45° lateral raises",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1755",
+    "name": "Shoulder Y-pull cable",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1757",
+    "name": "supino",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1762",
+    "name": "supino",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1763",
+    "name": "supino",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1764",
+    "name": "supino",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "upper arms"
+  },
+  {
+    "id": "1765",
+    "name": "Pull-Ups (Wide Grip)",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1766",
+    "name": "Plank Reach",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "waist"
+  },
+  {
+    "id": "1767",
+    "name": "bicep curl",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "upper arms"
+  },
+  {
+    "id": "1768",
+    "name": "bicep",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "upper arms"
+  },
+  {
+    "id": "1769",
+    "name": "cabel",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "1770",
+    "name": "Seated machine row",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1771",
+    "name": "Wrist curl, cable",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "1772",
+    "name": "Reverse crunch",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "1773",
+    "name": "Legend Incline Bench Press",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1774",
+    "name": "Chair dips",
+    "bodyPart": "shoulders",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1775",
+    "name": "Pec deck rear delt fly",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1627",
+    "name": "Barbell squat",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1776",
+    "name": "Suitcase Carry",
+    "bodyPart": "waist",
+    "equipment": "dumbbell",
+    "target": "waist"
+  },
+  {
+    "id": "1777",
+    "name": "Deficit Push ups",
+    "bodyPart": "chest",
+    "equipment": "other",
+    "target": "chest"
+  },
+  {
+    "id": "1843",
+    "name": "Butterfly Stretch",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "upper legs"
+  },
+  {
+    "id": "1844",
+    "name": "Frog Stretch",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "1778",
+    "name": "Supino inclinado",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1779",
+    "name": "Landmine Rotation",
+    "bodyPart": "waist",
+    "equipment": "barbell",
+    "target": "waist"
+  },
+  {
+    "id": "1780",
+    "name": "Supino",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "upper arms"
+  },
+  {
+    "id": "1792",
+    "name": "Supino",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1793",
+    "name": "Supino Inclinado",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1794",
+    "name": "SUPINO",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "waist"
+  },
+  {
+    "id": "1795",
+    "name": "unilateral cross body cable pull down",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1796",
+    "name": "Supino",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1797",
+    "name": "Supino",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1798",
+    "name": "Supino",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "upper arms"
+  },
+  {
+    "id": "1799",
+    "name": "Supino",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1800",
+    "name": "Supino Inclinado",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "upper arms"
+  },
+  {
+    "id": "1801",
+    "name": "Barbell Full Squat",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1802",
+    "name": "Supinos",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "waist"
+  },
+  {
+    "id": "1803",
+    "name": "Trap Bar Squat",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "quads"
+  },
+  {
+    "id": "1804",
+    "name": "ankle dorsiflexion rocks",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "calves"
+  },
+  {
+    "id": "1805",
+    "name": "Barbell Squat",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "upper legs"
+  },
+  {
+    "id": "1806",
+    "name": "Lat Pull Down",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1807",
+    "name": "Behind the Back Cable Lateral Raise",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1808",
+    "name": "Parallel Bar Hold",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1809",
+    "name": "Reverse Hyperextension",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1810",
+    "name": "Sphinx",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "1822",
+    "name": "Open Book",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "back"
+  },
+  {
+    "id": "1823",
+    "name": "Clamshell",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "1824",
+    "name": "Dumbell Tate Press",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "1825",
+    "name": "Chest-Supported Rear Delt Raise",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1826",
+    "name": "Band pull-apart with external rotation",
+    "bodyPart": "shoulders",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1827",
+    "name": "Double-Leg Abdominal Press",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "1828",
+    "name": "Abdominal Draw-In",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "1829",
+    "name": "Landmine Squat to Press",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1830",
+    "name": "Barbell Step Back Lunge",
+    "bodyPart": "upper legs",
+    "equipment": "barbell",
+    "target": "quads"
+  },
+  {
+    "id": "1831",
+    "name": "Hammerstrength Decline Chest Press",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1832",
+    "name": "Ring Support Hold",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1833",
+    "name": "Floor Glider Hamstring Curls",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1834",
+    "name": "Trap-3 Raise",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1835",
+    "name": "External Rotation Stretch",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1838",
+    "name": "Banded Shoulder Drills",
+    "bodyPart": "shoulders",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1839",
+    "name": "Solo Hip Flexor Stretch",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "upper legs"
+  },
+  {
+    "id": "1840",
+    "name": "Bent-Leg Hamstring Stretch",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "upper legs"
+  },
+  {
+    "id": "1841",
+    "name": "Seated Shoulder Extension Stretch",
+    "bodyPart": "shoulders",
+    "equipment": "other",
+    "target": "lats"
+  },
+  {
+    "id": "1842",
+    "name": "Banded Clamshell",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "1397",
+    "name": "Standing Pancake Good Morning",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1845",
+    "name": "Seated Pancake Good Morning",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "1846",
+    "name": "Horse Stance (Side Splits)",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "1847",
+    "name": "Straddle L-Sit",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "1852",
+    "name": "L-sit",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "lats"
+  },
+  {
+    "id": "1853",
+    "name": "L-Sit (Foot Supported)",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "lats"
+  },
+  {
+    "id": "1854",
+    "name": "Calves foam roller",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "calves"
+  },
+  {
+    "id": "1855",
+    "name": "Hamstring Foam roller",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "upper legs"
+  },
+  {
+    "id": "1856",
+    "name": "Foam Roller Anterior tibialis",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "upper legs"
+  },
+  {
+    "id": "1857",
+    "name": "Foam Roller Iliotibial band",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "quads"
+  },
+  {
+    "id": "1858",
+    "name": "Foam Roller quadriceps",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "quads"
+  },
+  {
+    "id": "1859",
+    "name": "Foam Roller Gluteus",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "1860",
+    "name": "Foam Roller Adductors",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "upper legs"
+  },
+  {
+    "id": "1861",
+    "name": "Side stretch",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "back"
+  },
+  {
+    "id": "1862",
+    "name": "Hip Circles",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "1863",
+    "name": "Hip Crossover",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "1864",
+    "name": "Ankle Roll",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "1865",
+    "name": "Banded Ankle Mobility",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "1866",
+    "name": "Butterfly Stretch",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "1867",
+    "name": "Hip Flexor Stretch",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "1868",
+    "name": "Lunge with Twist Stretch",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "1869",
+    "name": "Lying Figure Four Stretch",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "1870",
+    "name": "Lying Hamstring Stretch with Band",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "1871",
+    "name": "Lying Knee to Chest Stretch",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "1872",
+    "name": "Pigeon Stretch",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "1873",
+    "name": "Quad Stretch",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "1874",
+    "name": "Runners Lunge Stretch",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "1875",
+    "name": "Standing IT Band Stretch",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "upper legs"
+  },
+  {
+    "id": "1876",
+    "name": "Supported Calf Stretch",
+    "bodyPart": "lower legs",
+    "equipment": "body weight",
+    "target": "lower legs"
+  },
+  {
+    "id": "1877",
+    "name": "Banded Scapular Retraction",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1878",
+    "name": "Bench Press Dumbbell",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "1879",
+    "name": "Incline DB Y-Raise",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1880",
+    "name": "Wide Grip Pull Up",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "lats"
+  },
+  {
+    "id": "1881",
+    "name": "DB Wrist Extension",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "upper arms"
+  },
+  {
+    "id": "1882",
+    "name": "High-Cable Lateral Raise",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1883",
+    "name": "Machine Chest Press",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1884",
+    "name": "Shinbox IR Stretch",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "1885",
+    "name": "YTWL Exercise",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1886",
+    "name": "Supine Hip Abduction",
+    "bodyPart": "upper legs",
+    "equipment": "dumbbell",
+    "target": "glutes"
+  },
+  {
+    "id": "1889",
+    "name": "Decline Bench Leg Raise",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "1893",
+    "name": "Overhead Barbell Press",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1897",
+    "name": "Close-Grip Bench Press",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "target": "triceps"
+  },
+  {
+    "id": "1900",
+    "name": "Tricep Rope Pushdowns",
+    "bodyPart": "upper arms",
+    "equipment": "body weight",
+    "target": "triceps"
+  },
+  {
+    "id": "1901",
+    "name": "Clean and Press",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "target": "shoulders"
+  },
+  {
+    "id": "1902",
+    "name": "Weighted push-ups",
+    "bodyPart": "chest",
+    "equipment": "other",
+    "target": "chest"
+  },
+  {
+    "id": "1903",
+    "name": "Walking Lunges",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "quads"
+  },
+  {
+    "id": "1904",
+    "name": "Pec Deck",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1905",
+    "name": "Pullback",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "biceps"
+  },
+  {
+    "id": "1906",
+    "name": "Hip Bridge",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "1907",
+    "name": "Unilateral Lunges",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "1908",
+    "name": "Butterfly Superman",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": ""
+  },
+  {
+    "id": "1909",
+    "name": "Leg Wheel",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "1910",
+    "name": "Kneeling Superman",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "hamstrings"
+  },
+  {
+    "id": "1911",
+    "name": "Cat Plank",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "quads"
+  },
+  {
+    "id": "1912",
+    "name": "Core Rotation",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "quads"
+  },
+  {
+    "id": "1913",
+    "name": "Unilateral Hip Thrust",
+    "bodyPart": "upper legs",
+    "equipment": "other",
+    "target": "glutes"
+  },
+  {
+    "id": "1914",
+    "name": "Isometria alle parallele",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1915",
+    "name": "Quadruped Hip Abduction",
+    "bodyPart": "lower legs",
+    "equipment": "other",
+    "target": "lower legs"
+  },
+  {
+    "id": "1916",
+    "name": "Tuck planche",
+    "bodyPart": "shoulders",
+    "equipment": "other",
+    "target": "shoulders"
+  },
+  {
+    "id": "1917",
+    "name": "Test Exercise DELETE ME",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1918",
+    "name": "Legend Chest Press",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1919",
+    "name": "Extreme Pec Stretch",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1920",
+    "name": "Extreme Shoulder Stretch",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1921",
+    "name": "Extreme Lat Stretch",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "back"
+  },
+  {
+    "id": "1922",
+    "name": "Seated Cable chest fly",
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "target": "chest"
+  },
+  {
+    "id": "1923",
+    "name": "Rear delt raises",
+    "bodyPart": "shoulders",
+    "equipment": "body weight",
+    "target": "shoulders"
+  },
+  {
+    "id": "1924",
+    "name": "3008 Abdominal Crunch",
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "target": "abs"
+  },
+  {
+    "id": "1925",
+    "name": "Barbell Silverback Shrug",
+    "bodyPart": "shoulders",
+    "equipment": "barbell",
+    "target": ""
+  },
+  {
+    "id": "1926",
+    "name": "Wide Grip Lat Pull Down",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1927",
+    "name": "Inverted Lat Pull Down",
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "target": "lats"
+  },
+  {
+    "id": "1928",
+    "name": "Seated V-Grip Row",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "lats"
+  },
+  {
+    "id": "1929",
+    "name": "Assisted Pull-Up",
+    "bodyPart": "back",
+    "equipment": "other",
+    "target": "lats"
+  },
+  {
+    "id": "1930",
+    "name": "Hammer Curl",
+    "bodyPart": "back",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "1931",
+    "name": "Dumbbell Curl",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "1932",
+    "name": "Hammer Curl",
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "target": "biceps"
+  },
+  {
+    "id": "1933",
+    "name": "Abdominal Crunch",
+    "bodyPart": "waist",
+    "equipment": "other",
+    "target": "abs"
+  },
+  {
+    "id": "1934",
+    "name": "Incline Dumbbell Press",
+    "bodyPart": "chest",
+    "equipment": "dumbbell",
+    "target": "chest"
+  },
+  {
+    "id": "1935",
+    "name": "Belt Squat",
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "target": "glutes"
+  }
+]
